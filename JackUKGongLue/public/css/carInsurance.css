@@ -1,0 +1,221 @@
+@media screen and (max-width: 720px)
+{
+    .homepageLayout
+    {
+        margin-top: 40%;
+    }
+}
+
+@media screen and (max-width:575px)
+{
+    .homepageLayout
+    {
+        margin-top: 60%;
+    }
+}
+
+.insurancePrice
+{
+    margin-top: 20px;
+}
+
+.insuranceWebsite
+{
+    margin-top: 20px;
+}
+
+.insuranceGuide
+{
+    margin-top: 20px;
+}
+
+.textStyle{
+    margin-left: 2%;
+    text-align: left;
+    color: #011627;
+    font-size: 18px;
+    font-weight: bold;
+    font-family: "Times New Roman", Times, serif;
+}
+
+.titleStyle
+{
+    margin-left:2%;
+    text-align: left;
+    color: #011627;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: "Times New Roman", Times, serif;
+}
+
+.paragraphNoMargin
+{
+    margin: 0px;
+}
+
+.importantHint
+{
+    font-weight: normal;
+    color: #F31431;
+    font-size: 14px;
+}
+
+.carInsuranceSecondRow
+{
+    margin-left: 5%;
+}
+
+.requirementListInsurance
+{
+    margin-left: 7%; 
+    text-align: left;
+    color: #011627;
+    font-size: 18px;
+    font-weight: 600;
+    font-family: "Times New Roman", Times, serif;
+}
+
+.importantInsuranceText
+{
+    margin-left: 7%; 
+    text-align: left;
+    color: #011627;
+    font-size: 16px;
+    font-weight: bold;
+    font-family: "Times New Roman", Times, serif;
+}
+
+.linkStyle
+{
+    margin-bottom: 0px;
+    margin-left:7%;
+    text-align: left;
+    color: #011627;
+    font-size: 18px;
+    font-weight: bold;
+    font-family: "Times New Roman", Times, serif;
+}
+
+.buyCarLinkStyle
+{
+    margin-bottom: 0px;
+    margin-left:7%;
+    text-align: center;
+    color: #011627;
+    font-size: 26px;
+    font-weight: bold;
+    font-family: "Times New Roman", Times, serif;
+}
+
+.buyCarSmallText
+{
+    font-size: 20px;
+}
+
+.linkStyleNoMargin
+{
+    margin-left: 2%;
+    margin: 0px;
+    text-align: left;
+    color: #011627;
+    font-weight: bold;
+    font-size: 20px;
+    font-family: "Times New Roman", Times, serif;
+}
+
+.carRankingMargin
+{
+    text-align: center;
+    margin-left: 5%;
+}
+
+.carRankList
+{
+    margin-left: 10%;
+    text-align: left;
+    font-weight: bold;
+    font-size: 16px;
+    font-family: "Times New Roman", Times, serif;
+}
+
+.rankOne 
+{
+ color: #011627;
+}
+
+.rankTwo
+{
+    color:#333333;
+}
+
+.rankThree
+{
+    color:#4d4d4d;
+}
+
+.rankFour
+{
+    color:#595959;
+}
+
+.rankFive
+{
+    color: #666666;
+}
+
+.rankSix
+{
+    color:#808080;
+}
+
+.rankSeven
+{
+    color:#999999;
+}
+
+.autotraderImage
+{
+    background-image: url('../images/BuyCar/autotrader.JPG');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height : 300px;
+}
+
+.moneysupermarketImage
+{
+    background-image: url('../images/BuyCar/moneysupermarket.JPG');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height : 300px;
+}
+
+.comparethemarketImage
+{
+    background-image: url('../images/BuyCar/comparethemarket.JPG');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height : 300px;
+}
+
+.carwowImage
+{
+    background-image: url('../images/BuyCar/carwow.JPG');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height : 300px;
+}
+
+.insurancePrice
+{
+    margin-top: 20px;
+}
+
+.insuranceWebsite
+{
+    margin-top: 20px;
+}
+
+.insuranceGuide
+{
+    margin-top: 20px;
+}

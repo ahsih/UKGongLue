@@ -1,0 +1,66 @@
+@media screen and (max-width: 720px)
+{
+    .homepageLayout
+    {
+        margin-top: 40%;
+    }
+}
+
+@media screen and (max-width:575px)
+{
+    .homepageLayout
+    {
+        margin-top: 60%;
+    }
+}
+
+.carInsurance {
+    background-image: url("../images/homepage/v5c.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 200px;
+}
+
+.touristImage {
+    background-image: url("../images/homepage/HomePageHolidayImage.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 200px;
+    opacity: 0.8;
+}
+
+.airportImage {
+    background-image: url("../images/homepage/Airport.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 200px;
+    opacity: 0.8;
+}
+
+.HomePageTitle {
+    text-align: center;
+    color: black;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: "Times New Roman", Times, serif;
+}
+
+.paragraphNoMargin {
+    margin: 0px;
+}
+
+.subFontStyle {
+    margin: 0%;
+    text-align: center;
+    color: rgba(140,190,214);
+    font-size: 20px;
+    font-weight: bold;
+    font-family: "Times New Roman", Times, serif;
+}
+
+.hyperlinkStyle {
+    text-decoration: none;
+}
+.hyperlinkStyle:hover {
+    text-decoration: none;
+}
